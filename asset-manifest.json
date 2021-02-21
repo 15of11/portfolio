@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b3323b47.chunk.css",
+    "main.js": "/portfolio/static/js/main.a295d7ea.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a295d7ea.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.9b23af3e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.9b23af3e.js.map",
+    "static/css/2.658248ec.chunk.css": "/portfolio/static/css/2.658248ec.chunk.css",
+    "static/js/2.1703604a.chunk.js": "/portfolio/static/js/2.1703604a.chunk.js",
+    "static/js/2.1703604a.chunk.js.map": "/portfolio/static/js/2.1703604a.chunk.js.map",
+    "static/js/3.08bd4b03.chunk.js": "/portfolio/static/js/3.08bd4b03.chunk.js",
+    "static/js/3.08bd4b03.chunk.js.map": "/portfolio/static/js/3.08bd4b03.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/portfolio/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.b3323b47.chunk.css.map": "/portfolio/static/css/main.b3323b47.chunk.css.map",
+    "static/js/2.1703604a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.1703604a.chunk.js.LICENSE.txt",
+    "static/media/FormPage.b57117bd.png": "/portfolio/static/media/FormPage.b57117bd.png",
+    "static/media/LinkedIn_logo.b1bebb39.png": "/portfolio/static/media/LinkedIn_logo.b1bebb39.png",
+    "static/media/SeetGeekHome.0f0aa339.PNG": "/portfolio/static/media/SeetGeekHome.0f0aa339.PNG",
+    "static/media/SeetGeekLogin.0458ab58.PNG": "/portfolio/static/media/SeetGeekLogin.0458ab58.PNG",
+    "static/media/Stack-overflow-icon.579cff43.png": "/portfolio/static/media/Stack-overflow-icon.579cff43.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b23af3e.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.1703604a.chunk.js",
+    "static/css/main.b3323b47.chunk.css",
+    "static/js/main.a295d7ea.chunk.js"
+  ]
+}
