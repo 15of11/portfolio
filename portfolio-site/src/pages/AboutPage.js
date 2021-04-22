@@ -1,6 +1,7 @@
 import React from 'react';
 import Hero from '../components/Hero';
 import Content from '../components/Content';
+import pdf from '../assets/Documents/Owen Ford Resume.pdf'
 
 function AboutPage(props) {
 
@@ -16,6 +17,8 @@ function AboutPage(props) {
             <p>I'm constantly learning new things. Currently, those things include gaining more experience with React, React Native, Node JS, SQL, and Python.</p>
 
             <p>My latest project, the Ovarian Cancer mobile app, is an app that allows doctors to fill out patient information and receive feedback such as possible testing. You can check it out <a href="https://github.com/mmont429/OvarianCancerApp" target="_blank" rel="noopener noreferrer">here</a>, or on the projects page. It is built with React Native, AWS, and Node JS.</p>
+
+            <p>Click <a href={pdf}>here</a> to view my resume.</p>
             </Content>
         </div>
     );
