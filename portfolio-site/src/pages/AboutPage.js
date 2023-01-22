@@ -12,7 +12,7 @@ function AboutPage(props) {
             <Content>
             <p>Hello, my name is Owen Ford. I'm a computer engineer with experience in React, ReactJS, Node JS, SQL, Python, and more.</p>
 
-            <p>I am currently finishing my last year of computer engineering at Queen's University.</p>
+            <p>I am currently not finishing my last year of computer engineering at Queen's University.</p>
 
             <p>I'm constantly learning new things. Currently, those things include gaining more experience with React, React Native, Node JS, SQL, and Python.</p>
 
